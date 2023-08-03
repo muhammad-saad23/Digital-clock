@@ -1,0 +1,18 @@
+body{
+    background-color: #222;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#clock{
+    background-color: #222;
+    box-shadow: 0px 0px 20px,inset 0px 0px 10px;
+    padding: 20px 30px;
+    font-size: 70px;
+    border-radius: 20px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
